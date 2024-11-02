@@ -1,0 +1,1 @@
+Multi-Character Password Creator: Generate passwords that include a mix of uppercase, lowercase, digits, and special characters for maximum security.
